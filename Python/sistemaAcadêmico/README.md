@@ -1,13 +1,12 @@
 # Sistema-PUC-PR
 
-Olá! Seja muito bem-vindo(a) a este projeto da atividade somativa 2 da faculdade PUC-PR, aqui você encontrará todas as informações necessárias para entender, instalar e executar este projeto. 
+Olá! Seja muito bem-vindo(a) a este projeto da atividade da faculdade PUC-PR, aqui você encontrará todas as informações necessárias para entender, instalar e executar este projeto. 
 
 Fique à vontade para explorar, abrir issues, sugerir melhorias ou contribuir com pull requests. Toda colaboração é muito bem-vinda!
 
 * Aluno: Felipe Paraizo de Oliveira 
 * Faculcade: PUC-PR
 * Máteria: Raciocínio Computacional
-* Atividade Somativa 2 (Semana 8)
 
 # Sistema de Gerenciamento Acadêmico
 
