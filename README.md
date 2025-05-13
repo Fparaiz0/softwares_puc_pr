@@ -9,7 +9,8 @@ Fique à vontade para explorar, abrir issues, sugerir melhorias ou contribuir co
 
 # Projetos 
 
-* Sistema de gerenciamento acadêmico: [Documentação](Python/sistemaAcadêmico)
+* Sistema de Gerenciamento Acadêmico: [Documentação](Python/sistemaAcadêmico)
+* Sistema de Simulação de Financiamentos : [Documentação](Java/sistemaFinanciamentos)
   
 # Autor
 
