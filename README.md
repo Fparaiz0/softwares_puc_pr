@@ -4,7 +4,8 @@ Olá! Seja muito bem-vindo(a) a este repositório da faculdade PUC-PR, aqui voc�
 
 Fique à vontade para explorar, abrir issues, sugerir melhorias ou contribuir com pull requests. Toda colaboração é muito bem-vinda!
 
-* Aluno: Felipe Paraizo de Oliveira 
+* Aluno: Felipe Paraizo de Oliveira
+* Curso: Análise e Desenvolvimento de Sistemas (ADS)
 * Faculcade: PUC-PR
 
 # Projetos 
