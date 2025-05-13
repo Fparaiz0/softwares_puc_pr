@@ -6,6 +6,10 @@ Fique à vontade para explorar, abrir issues, sugerir melhorias ou contribuir co
 
 * Aluno: Felipe Paraizo de Oliveira 
 * Faculcade: PUC-PR
+
+# Projetos 
+
+* Sistema de gerenciamento acadêmico: [Documentação](Python/sistemaAcadêmico)
   
 # Autor
 
