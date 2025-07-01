@@ -1,0 +1,49 @@
+===== Financiamento Casa =====
+
+Valor total do imóvel: 500000,00
+Prazo do financiamento: 10 anos
+Taxa de juros anual: 10,00%
+Área construída: 250,00 m²
+Área do terreno: 250,00 m²
+Pagamento mensal: 4226,39
+Valor total do financiamento: 507166,67
+
+===== Financiamento Casa =====
+
+Valor total do imóvel: 350000,00
+Prazo do financiamento: 10 anos
+Taxa de juros anual: 10,00%
+Área construída: 250,00 m²
+Área do terreno: 300,00 m²
+Pagamento mensal: 2965,97
+Valor total do financiamento: 355916,67
+
+===== Financiamento Apartamento =====
+
+Valor total do imóvel: 550000,00
+Prazo do financiamento: 10 anos
+Taxa de juros anual: 8,00%
+Número de vagas na garagem: 2
+Número do andar: 8
+Pagamento mensal: 6673,02
+Valor total do financiamento: 800762,12
+
+===== Financiamento Apartamento =====
+
+Valor total do imóvel: 950000,00
+Prazo do financiamento: 15 anos
+Taxa de juros anual: 10,00%
+Número de vagas na garagem: 2
+Número do andar: 12
+Pagamento mensal: 10208,75
+Valor total do financiamento: 1837574,75
+
+===== Financiamento Terreno =====
+
+Valor total do imóvel: 500000,00
+Prazo do financiamento: 10 anos
+Taxa de juros anual: 10,00%
+Tipo de zona: residencial
+Pagamento mensal: 4285,42
+Valor total do financiamento: 514250,00
+

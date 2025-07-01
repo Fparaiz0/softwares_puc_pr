@@ -72,12 +72,14 @@ O sistema é um CRUD via terminal que gerencia entidades educacionais (como estu
 
 - Abra o terminal (CMD, PowerShell, terminal Linux/macOS ou terminal do VS Code) e clone o repositório: 
 ```
-git clone https://github.com/Fparaiz0/Sistema-PUC-PR.git
+git clone -b main https://github.com/Fparaiz0/Sistema-PUC-PR.git
 ```
 
 - Depois, entre na pasta do projeto: 
 ```
 cd Sistema-PUC-PR
+cd python
+cd sistemaAcadêmico
 ```
 
 # Verificar a Estrutura de Arquivos
@@ -85,18 +87,22 @@ cd Sistema-PUC-PR
 - A estrutura mínima deve ser assim: 
 ```
 Sistema-PUC-PR/
-├── main.py
-├── database_json/
-│   ├── estudantes.json
-│   ├── professores.json
-│   ├── disciplinas.json
-│   ├── turmas.json
-│   ├── matriculas.json
-│   ├── estudantes_primaryLog.txt
-│   ├── professores_primaryLog.txt
-│   ├── disciplinas_primaryLog.txt
-│   ├── turmas_primaryLog.txt
-│   └── matriculas_primaryLog.txt
+└── Python/
+    └── SistemaAcademico/
+        ├── main.py
+        ├── README.md
+        └── database_json/
+            ├── estudantes.json
+            ├── professores.json
+            ├── disciplinas.json
+            ├── turmas.json
+            ├── matriculas.json
+            ├── estudantes_primaryLog.txt
+            ├── professores_primaryLog.txt
+            ├── disciplinas_primaryLog.txt
+            ├── turmas_primaryLog.txt
+            └── matriculas_primaryLog.txt
+
 ```
 
 - Se a pasta database_json não vier com os arquivos prontos, crie manualmente com conteúdo inicial:
