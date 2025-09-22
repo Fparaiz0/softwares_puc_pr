@@ -1,4 +1,4 @@
-# Sistema-PUC-PR
+# Softwares - PUCPR
 
 Olá! Seja muito bem-vindo(a) a este projeto da atividade da faculdade PUC-PR, aqui você encontrará todas as informações necessárias para entender, instalar e executar este projeto. 
 
