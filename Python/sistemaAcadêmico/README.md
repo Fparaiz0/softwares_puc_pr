@@ -1,4 +1,4 @@
-# Sistema-PUC-PR
+# Softwares - PUCPR
 
 Olá! Seja muito bem-vindo(a) a este projeto da atividade da faculdade PUC-PR, aqui você encontrará todas as informações necessárias para entender, instalar e executar este projeto. 
 
@@ -127,5 +127,6 @@ Explore, experimente e evolua — o sistema está em suas mãos!
 Bom desenvolvimento! 🚀
 
 # Autor
+
 
 Este projeto foi desenvolvido por [Felipe Paraizo](https://github.com/Fparaiz0) e está hospedado no repositório (https://github.com/Fparaiz0/Sistema-PUC-PR.git). 
