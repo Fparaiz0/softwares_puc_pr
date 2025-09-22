@@ -1,12 +1,15 @@
-# Sistema-PUC-PR
+# Softwares - PUCPR
 
-Olá! Seja muito bem-vindo(a) a este repositório da faculdade PUC-PR, aqui você encontrará todas as informações necessárias para entender, instalar e executar os projetos dentro deste repositório. 
+Este repositório reúne os softwares desenvolvidos nas atividades avaliativas do curso de Análise e Desenvolvimento de Sistemas da PUCPR.
+Os projetos foram elaborados com foco em aplicar conceitos teóricos na prática, abrangendo desde fundamentos da programação até tópicos avançados em engenharia de software.
+
+O objetivo é consolidar o aprendizado adquirido durante a formação acadêmica, demonstrando a evolução técnica e a capacidade de propor soluções eficientes para diferentes cenários do mercado de tecnologia. 
 
 Fique à vontade para explorar, abrir issues, sugerir melhorias ou contribuir com pull requests. Toda colaboração é muito bem-vinda!
 
 * Aluno: Felipe Paraizo de Oliveira
 * Curso: Análise e Desenvolvimento de Sistemas (ADS)
-* Faculcade: PUC-PR
+* Faculcade: Pontifícia Universidade Católica do Paraná (PUCPR)
 
 # Projetos 
 
@@ -15,4 +18,4 @@ Fique à vontade para explorar, abrir issues, sugerir melhorias ou contribuir co
   
 # Autor
 
-Este repositório foi desenvolvido por [Felipe Paraizo](https://github.com/Fparaiz0) e está hospedado no repositório (https://github.com/Fparaiz0/Sistema-PUC-PR.git). 
+Este repositório foi desenvolvido por [Felipe Paraizo](https://github.com/Fparaiz0) e está hospedado no repositório (https://github.com/Fparaiz0/softwares_puc_pr).
