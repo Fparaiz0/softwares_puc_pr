@@ -13,9 +13,12 @@ Fique à vontade para explorar, abrir issues, sugerir melhorias ou contribuir co
 
 # Projetos 
 
-* Sistema de Gerenciamento Acadêmico: [Documentação](Python/sistemaAcadêmico)
-* Sistema de Simulação de Financiamentos : [Documentação](Java/sistemaFinanciamentos)
-  
+| Projeto | Descrição Breve | Linguagens | Status | Repositório
+|     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |
+| Sistema de gerenciamento acadêmico | Gerenciador de dados educacionais em Python com persistência em arquivos JSON. Ele oferece uma interface de linha de comando (CLI) para cadastro, listagem, atualização e exclusão de registros de cinco entidades principais. | Python | Concluido | [Documentação](Python/sistemaAcadêmico) |
+| Sistema de simulação de financeiamentos | Sistema de Simulação de Financiamento de imóveis para um banco. Este sistema demonstra conceitos de Programação Orientada a Objetos e Java. | Java | Concluido | [Documentação](Java/sistemaFinanciamentos) |  
+
 # Autor
 
 Este repositório foi desenvolvido por [Felipe Paraizo](https://github.com/Fparaiz0) e está hospedado no repositório (https://github.com/Fparaiz0/softwares_puc_pr).
+
