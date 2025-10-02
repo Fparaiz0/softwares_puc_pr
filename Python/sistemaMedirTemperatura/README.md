@@ -14,17 +14,32 @@ Sinta-se à vontade para explorar, abrir issues, sugerir melhorias ou contribuir
 
 # Sistema de Medição de Temperatura com ESP32, DHT11 e Módulo Relé
 
-Este sistema tem como objetivo monitorar a temperatura e a umidade do ar, utilizando:
+Este sistema tem como objetivo monitorar a temperatura e a umidade do ar, utilizando os seguintes componentes principais:
 
-* ESP32 (microcontrolador);
+* ESP32: microcontrolador responsável pela execução do código e envio dos dados coletados;
 
-* DHT11 (sensor de temperatura e umidade);
+* DHT11: sensor digital utilizado para medir temperatura e umidade;
 
-* Módulo Relé (atuador para controle de dispositivos elétricos).
+* Módulo Relé: atuador que permite ligar ou desligar dispositivos elétricos com base nas condições ambientais monitoradas.
 
-A integração desses componentes possibilita a coleta de dados ambientais e a atuação sobre equipamentos elétricos de acordo com as condições monitoradas.
+# Coleta e envio dos dados
 
-Além disso, os dados coletados são enviados para a plataforma [ThingSpeak](https://thingspeak.mathworks.com/), que permite o armazenamento em nuvem, visualização em gráficos e análise em tempo real.
+Os valores medidos pelo sensor DHT11 são processados pelo ESP32 e enviados diretamente para a plataforma [ThingSpeak](https://thingspeak.mathworks.com/), que atua como serviço de nuvem para armazenamento, análise e visualização gráfica em tempo real.
+
+# Ambiente de desenvolvimento
+
+O código do projeto foi desenvolvido em uma [máquina virtual (VM)](https://www.virtualbox.org/) com sistema operacional [Ubuntu](https://ubuntu.com/download/desktop), o que garantiu um ambiente isolado e adequado para testes.
+Para a programação do ESP32, foi utilizada a [IDE Thonny](https://thonny.org/), uma ferramenta leve e compatível com MicroPython, que facilitou a escrita, execução e depuração do código.
+
+# Fluxo do sistema
+
+O funcionamento pode ser descrito em três etapas principais:
+
+* Coleta dos dados: o sensor DHT11 mede a temperatura e a umidade do ambiente.
+
+* Processamento e envio: o ESP32 processa essas informações e as envia para o [ThingSpeak](https://thingspeak.mathworks.com/) pela internet.
+
+* Atuação e visualização: o módulo Relé pode ser acionado conforme os valores medidos, e os dados ficam disponíveis no [ThingSpeak](https://thingspeak.mathworks.com/) em forma de gráficos e histórico.
 
 📹 Para mais detalhes sobre a atividade, assista ao vídeo explicativo:
 👉 [Assista no YouTube](https://www.youtube.com/watch?v=WspJijBCank)
