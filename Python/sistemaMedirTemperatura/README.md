@@ -24,6 +24,7 @@ Este sistema tem como objetivo monitorar a temperatura e a umidade do ar, utiliz
 
 # Coleta e envio dos dados
 
+<<<<<<< HEAD
 Os valores medidos pelo sensor DHT11 são processados pelo ESP32 e enviados diretamente para a plataforma [ThingSpeak](https://thingspeak.mathworks.com/), que atua como serviço de nuvem para armazenamento, análise e visualização gráfica em tempo real.
 
 # Ambiente de desenvolvimento
@@ -41,6 +42,8 @@ O funcionamento pode ser descrito em três etapas principais:
 
 * Atuação e visualização: o módulo Relé pode ser acionado conforme os valores medidos, e os dados ficam disponíveis no [ThingSpeak](https://thingspeak.mathworks.com/) em forma de gráficos e histórico.
 
+=======
+>>>>>>> parent of 1f57452 (Update README.md)
 📹 Para mais detalhes sobre a atividade, assista ao vídeo explicativo:
 👉 [Assista no YouTube](https://www.youtube.com/watch?v=WspJijBCank)
 
