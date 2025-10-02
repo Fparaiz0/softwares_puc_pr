@@ -16,7 +16,8 @@ Fique à vontade para explorar, abrir issues, sugerir melhorias ou contribuir co
 | Projeto | Descrição Breve | Linguagens | Status | Repositório
 |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |
 | Sistema de gerenciamento acadêmico | Gerenciador de dados educacionais em Python com persistência em arquivos JSON. Ele oferece uma interface de linha de comando (CLI) para cadastro, listagem, atualização e exclusão de registros de cinco entidades principais. | Python | Concluido | [Documentação](Python/sistemaAcadêmico) |
-| Sistema de simulação de financeiamentos | Sistema de Simulação de Financiamento de imóveis para um banco. Este sistema demonstra conceitos de Programação Orientada a Objetos e Java. | Java | Concluido | [Documentação](Java/sistemaFinanciamentos) |  
+| Sistema de Medição de Temperatura | Este sistema tem como objetivo monitorar a temperatura e a umidade do ar, utilizando os seguintes componentes principais: ESP32, DHT11 e MÓDULO RELÉ | Python | Concluido | [Documentação](Python/sistemaMedirTemperatura) |
+| Sistema de simulação de financeiamentos | Sistema de Simulação de Financiamento de imóveis para um banco. Este sistema demonstra conceitos de Programação Orientada a Objetos e Java. | Java | Concluido | [Documentação](Java/sistemaFinanciamentos) |
 
 # Autor
 
