@@ -24,6 +24,8 @@ Este sistema tem como objetivo monitorar a temperatura e a umidade do ar, utiliz
 
 A integração desses componentes possibilita a coleta de dados ambientais e a atuação sobre equipamentos elétricos de acordo com as condições monitoradas.
 
+Além disso, os dados coletados são enviados para a plataforma [ThingSpeak](https://thingspeak.mathworks.com/), que permite o armazenamento em nuvem, visualização em gráficos e análise em tempo real.
+
 📹 Para mais detalhes sobre a atividade, assista ao vídeo explicativo:
 👉 [Assista no YouTube](https://www.youtube.com/watch?v=WspJijBCank)
 
